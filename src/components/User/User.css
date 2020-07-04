@@ -1,0 +1,33 @@
+.user{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.user-description{
+    margin-left: 30px;
+    
+}
+
+.user-name{
+    color:blue;
+    font-weight: 400;
+}
+
+.add-user-btn{
+    background-color: blueviolet;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
